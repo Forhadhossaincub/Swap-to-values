@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Swap to values\Swap to values\bin\Debug\Swap to values.exe.config
+C:\Users\Administrator\Desktop\Swap to values\Swap to values\bin\Debug\Swap to values.exe
+C:\Users\Administrator\Desktop\Swap to values\Swap to values\bin\Debug\Swap to values.pdb
+C:\Users\Administrator\Desktop\Swap to values\Swap to values\obj\Debug\Swap to values.exe
+C:\Users\Administrator\Desktop\Swap to values\Swap to values\obj\Debug\Swap to values.pdb
